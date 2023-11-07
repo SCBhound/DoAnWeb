@@ -62,9 +62,9 @@ function timKiemTheoMa(list, ma) {
 
 // copy 1 object, do trong js ko có tham biến , tham trị rõ ràng
 // nên dùng bản copy để chắc chắn ko ảnh hưởng tới bản chính
-function copyObject(o) {
-    return JSON.parse(JSON.stringify(o));
-}
+// function copyObject(o) {
+//     return JSON.parse(JSON.stringify(o));
+// }
 
 // ============== ALert Box ===============
 // div có id alert được tạo trong hàm addFooter
