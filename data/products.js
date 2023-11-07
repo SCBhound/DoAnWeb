@@ -252,29 +252,6 @@ var list_products = [{
     },
     "masp": "Xia1"
 }, {
-    "name": "Mobiistar X",
-    "company": "Mobiistar",
-    "img": "img/products/mobiistar-x-3-600x600.jpg",
-    "price": "3.490.000",
-    "star": 4,
-    "rateCount": 16,
-    "promo": {
-        "name": "tragop",
-        "value": "0"
-    },
-    "detail": {
-        "screen": "IPS LCD, 5.86', HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "16 MP và 5 MP (2 camera)",
-        "camaraFront": "16 MP",
-        "cpu": "MediaTek MT6762 8 nhân 64-bit (Helio P22)",
-        "ram": "4 GB",
-        "rom": "32 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3000 mAh"
-    },
-    "masp": "Mob0"
-}, {
     "name": "Mobiistar Zumbo S2 Dual",
     "company": "Mobiistar",
     "img": "img/products/mobiistar-zumbo-s2-dual-300x300.jpg",
